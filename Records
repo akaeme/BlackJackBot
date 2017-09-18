@@ -1,0 +1,157 @@
+500 000                     - (-43603)
+1 000 000 - 18:16 - 19:10 ->  (24461.5)
+250 000                     - (38078.5) Big difference over here, learning is ok
+2 000 000 - domingo - s     - (341488.5)
+250 000                     - dealer
+250 000                     - (45661.5)
+250 000                     - (41926.0)
+4 000 000                   - (-20488.5) dealer
+5 000 000                   - (835246.5)
+5 000 000                   - (868621)
+Total                       - 18 000 000
+
+Methods:
+    Based on initmoney                  - 10 000 -
+            give up mode                1243.5  945.5   1717.0  1298.0  885.5   1058.5
+         no give up mode                1876.5  86.0    297.5   948.0   1462.5  2326.0
+    Parlay Betting System               - 10 000 -
+            give up mode                577     603     788     613     518
+         no give up mode                351     912     781     586     458
+    Paroli Betting System(sequence of 3)- 10 000 -
+            give up mode                536     737     895     495     417
+         no give up mode                1075    709     773     852     762
+    Fibonacci Betting System            - 10 000 -
+            give up mode                518     512     762     369     531
+         no give up mode                572     744     741     404     369
+    Trioplay Betting System             - 10 000 -
+            give up mode                528     505     825     445     1180
+         no give up mode                651     751     724     835     620
+Limit streaks, based on initmoney       - 10 000 -
+
+
+Win streak number (3 250 000)           - 10 000 -
+        win_streak_number               4672    4718    4689    4637    4707
+        w_more_3                        1135    1228    1237    1158    1236
+        lose_streak_number              4562    4521    4555    4596    4524
+        l_more_3                        1048    1101    1116    1107    1083
+        $$$                             203.5   1213.5  631.5   393.0   401.0
+
+        wins-loses                      110     197     134     41      183
+        w/3 - l/3                       87      127     121     51      153
+
+Losing streaks, reduce >2               - 10 000 -
+        win_streak_number               4712    4625    4629    4676    4791
+        w_more_3                        1222    1137    1157    1214    1303
+        lose_streak_number              4516    4554    4596    4544    4434
+        l_more_3                        1043    1115    1130    1114    1045    5447
+        $$$                             849.5   90.0    316.5   600.5   1923.0  3779.5  755.9
+
+        wins-loses                      196     71      33      132     357
+        w/3 - l/w                       179     22      27      100     258
+
+Straight losing streak, reduce>2 $$     - 10 000 -
+        win_streak_number               4760    4662    4784    4686    4630
+        w_more_3                        1224    1152    1180    1162    1161
+        lose_streak_number              4471    4516    4485    4541    4604
+        l_more_3                        1111    1135    1152    1143    1139    5680
+        $$$                             1096.0  449.5   1544.5  523.5   115.5   3728,5  745.7
+
+Single Test after 4 000 000  (4players) - 50 000 - reduce money >3
+        win_streak_number               24146   24118   24054   24043
+        w_more_3                        6016    6023    6010    5986
+        lose_streak_number              22041   22124   22122   22167
+        l_more_3                        5507    5515    5422    5470
+        $$$                             11021.5 10903.5 10366.0 10284.0
+
+Win rate 3 players                      - 10 000 -
+        win rate                        48.0    46.86   47.93   47.87   48.3
+        money                           1888.5  758.5   1687.0  1888.0  2147.5
+        % money                         18.885  7.585   16.87   18.88   21.47
+
+Win rate 3 players trioplay             - 25 000 -
+        win rate                        47.88   47.64   47.39   47.15   47.71
+        money                           2099    1749    1441    1073    1784
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
